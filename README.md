@@ -1,6 +1,6 @@
 # gatling-docker-image
 
-Modifications to the H. Gomez gatling docker image 
+Docker image version 2.2.5 
 
 http://gatling.io/
 
